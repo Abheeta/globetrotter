@@ -62,7 +62,7 @@ const App: React.FC = () => {
       <div className="min-h-screen bg-gradient-to-b from-blue-500 to-purple-600 flex flex-col items-center justify-center p-4">
         <div className="w-full max-w-md bg-white rounded-xl shadow-2xl overflow-hidden">
           {invitee &&
-            <div className="absolute top-5 left-5 right-5 p-4 bg-green-100 rounded-lg mb-4 text-center">
+            <div className="absolute max-w-sm top-3 left-1/2 -translate-x-1/2 p-4 bg-green-100 rounded-lg mb-4 text-center">
               You were invited by {invitee.username} with {invitee.correct} correct answers and {invitee.attempted - invitee.correct} incorrect answers
             </div>
           }
