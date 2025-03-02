@@ -1,0 +1,563 @@
+[
+    {
+      "city": "Los Angeles",
+      "country": "USA",
+      "clues": [
+        "This city is a major cultural and economic hub in USA.",
+        "Known for its iconic Hollywood sign and entertainment industry."
+      ],
+      "fun_fact": [
+        "It is home to some of the most unique architectural wonders in USA.",
+        "Many visitors love exploring the local cuisine, which is a blend of traditional and modern influences."
+      ],
+      "trivia": [
+        "The city has a population of over 3,900,000 people.",
+        "This place attracts millions of tourists each year due to its vibrant culture and history."
+      ],
+      "possible_destinations": ["Los Angeles", "San Francisco", "San Diego", "Seattle"]
+    },
+    {
+      "city": "New York",
+      "country": "USA",
+      "clues": [
+        "This city is a major financial and cultural center in USA.",
+        "Known for its iconic skyline and Central Park."
+      ],
+      "fun_fact": [
+        "It is home to over 800 languages, making it the most linguistically diverse city in the world.",
+        "Many visitors love exploring the city's diverse neighborhoods, each with its own unique character."
+      ],
+      "trivia": [
+        "The city has a population of over 8,800,000 people.",
+        "This place attracts nearly 67 million tourists each year."
+      ],
+      "possible_destinations": ["New York", "Boston", "Philadelphia", "Chicago"]
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+        "This city is the political and economic center of Japan.",
+        "Known for its blend of ultramodern and traditional architecture."
+      ],
+      "fun_fact": [
+        "It is home to the world's busiest pedestrian crossing at Shibuya.",
+        "Many visitors love exploring the city's vibrant food scene with more Michelin-starred restaurants than any other city."
+      ],
+      "trivia": [
+        "The city has a population of over 14,000,000 people.",
+        "This place attracts over 15 million international tourists each year."
+      ],
+      "possible_destinations": ["Tokyo", "Osaka", "Kyoto", "Seoul"]
+    },
+    {
+      "city": "London",
+      "country": "UK",
+      "clues": [
+        "This city is the capital and largest city of the United Kingdom.",
+        "Known for its iconic landmarks such as Big Ben and Tower Bridge."
+      ],
+      "fun_fact": [
+        "It is home to four UNESCO World Heritage Sites: the Tower of London, Kew Gardens, Westminster, and Greenwich.",
+        "Many visitors love exploring its world-class museums, which offer free admission."
+      ],
+      "trivia": [
+        "The city has a population of over 9,000,000 people.",
+        "This place attracts nearly 30 million tourists each year."
+      ],
+      "possible_destinations": ["London", "Paris", "Dublin", "Amsterdam"]
+    },
+    {
+      "city": "Paris",
+      "country": "France",
+      "clues": [
+        "This city is known as the City of Light and is the capital of France.",
+        "Known for its iconic Eiffel Tower and art museums."
+      ],
+      "fun_fact": [
+        "It is home to the largest art museum in the world, the Louvre.",
+        "Many visitors love exploring the city's café culture and haute cuisine."
+      ],
+      "trivia": [
+        "The city has a population of over 2,100,000 people.",
+        "This place attracts over 40 million tourists each year, making it one of the most visited cities in the world."
+      ],
+      "possible_destinations": ["Paris", "Lyon", "London", "Barcelona"]
+    },
+    {
+      "city": "Sydney",
+      "country": "Australia",
+      "clues": [
+        "This city is the largest city in Australia and known for its harbor.",
+        "Known for its iconic Opera House and Harbour Bridge."
+      ],
+      "fun_fact": [
+        "It is home to some of the world's most beautiful beaches within a city.",
+        "Many visitors love exploring the city's vibrant multicultural food scene."
+      ],
+      "trivia": [
+        "The city has a population of over 5,300,000 people.",
+        "This place attracts over 4 million international tourists each year."
+      ],
+      "possible_destinations": ["Sydney", "Melbourne", "Brisbane", "Auckland"]
+    },
+    {
+      "city": "Dubai",
+      "country": "UAE",
+      "clues": [
+        "This city is known for luxury shopping and ultramodern architecture.",
+        "Known for its iconic Burj Khalifa, the world's tallest building."
+      ],
+      "fun_fact": [
+        "It is home to the world's largest shopping mall by total area.",
+        "Many visitors love exploring the contrast between modern skyscrapers and traditional Arabian markets."
+      ],
+      "trivia": [
+        "The city has a population of over 3,400,000 people.",
+        "This place attracts over 16 million tourists each year."
+      ],
+      "possible_destinations": ["Dubai", "Abu Dhabi", "Doha", "Riyadh"]
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "clues": [
+        "This city is the capital of Italy and known as the Eternal City.",
+        "Known for its ancient ruins like the Colosseum and Roman Forum."
+      ],
+      "fun_fact": [
+        "It is home to the smallest country in the world, Vatican City.",
+        "Many visitors love exploring the city's countless fountains, including the famous Trevi Fountain."
+      ],
+      "trivia": [
+        "The city has a population of over 2,800,000 people.",
+        "This place attracts over 10 million tourists each year."
+      ],
+      "possible_destinations": ["Rome", "Florence", "Naples", "Venice"]
+    },
+    {
+      "city": "Beijing",
+      "country": "China",
+      "clues": [
+        "This city is the capital of China and a cultural hub.",
+        "Known for its imperial past and the Great Wall nearby."
+      ],
+      "fun_fact": [
+        "It is home to the world's largest palace complex, the Forbidden City.",
+        "Many visitors love exploring the city's hutongs, traditional alleyways lined with courtyard residences."
+      ],
+      "trivia": [
+        "The city has a population of over 21,500,000 people.",
+        "This place attracts over 4 million international tourists each year."
+      ],
+      "possible_destinations": ["Beijing", "Shanghai", "Hong Kong", "Seoul"]
+    },
+    {
+      "city": "Cairo",
+      "country": "Egypt",
+      "clues": [
+        "This city is the capital of Egypt and largest city in Africa.",
+        "Known for its proximity to the ancient Pyramids of Giza."
+      ],
+      "fun_fact": [
+        "It is home to one of the oldest universities in the world, Al-Azhar University, established in 970 CE.",
+        "Many visitors love exploring the Egyptian Museum with its extensive collection of ancient artifacts."
+      ],
+      "trivia": [
+        "The city has a population of over 10,000,000 people.",
+        "This place attracts over 5 million international tourists each year."
+      ],
+      "possible_destinations": ["Cairo", "Alexandria", "Istanbul", "Amman"]
+    },
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "clues": [
+        "This city is famous for its stunning beaches and carnival celebrations.",
+        "Known for its iconic Christ the Redeemer statue and Sugarloaf Mountain."
+      ],
+      "fun_fact": [
+        "It is home to the world's largest urban forest, the Tijuca Forest.",
+        "Many visitors love exploring the vibrant street art scene and samba music culture."
+      ],
+      "trivia": [
+        "The city has a population of over 6,700,000 people.",
+        "This place attracts over 2 million international tourists each year."
+      ],
+      "possible_destinations": ["Rio de Janeiro", "São Paulo", "Buenos Aires", "Lima"]
+    },
+    {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "clues": [
+        "This city is the capital and most populous city of Thailand.",
+        "Known for its ornate shrines and vibrant street life."
+      ],
+      "fun_fact": [
+        "It is home to the world's largest open-air market, Chatuchak Weekend Market.",
+        "Many visitors love exploring the city's floating markets and street food scene."
+      ],
+      "trivia": [
+        "The city has a population of over 8,300,000 people.",
+        "This place attracts over 22 million international tourists each year, making it one of the world's most visited cities."
+      ],
+      "possible_destinations": ["Bangkok", "Singapore", "Kuala Lumpur", "Ho Chi Minh City"]
+    },
+    {
+      "city": "Mumbai",
+      "country": "India",
+      "clues": [
+        "This city is the financial capital of India and home to Bollywood.",
+        "Known for its colonial architecture and bustling street life."
+      ],
+      "fun_fact": [
+        "It is home to the world's most expensive private residence, Antilia.",
+        "Many visitors love exploring the city's distinctive street food and vibrant bazaars."
+      ],
+      "trivia": [
+        "The city has a population of over 20,400,000 people.",
+        "This place attracts millions of domestic and international tourists each year."
+      ],
+      "possible_destinations": ["Mumbai", "Delhi", "Bangalore", "Kolkata"]
+    },
+    {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "clues": [
+        "This city straddles Europe and Asia across the Bosphorus Strait.",
+        "Known for its Byzantine and Ottoman architecture."
+      ],
+      "fun_fact": [
+        "It is home to the Grand Bazaar, one of the world's oldest and largest covered markets.",
+        "Many visitors love exploring the city's Turkish baths and rich culinary traditions."
+      ],
+      "trivia": [
+        "The city has a population of over 15,500,000 people.",
+        "This place attracts over 13 million international tourists each year."
+      ],
+      "possible_destinations": ["Istanbul", "Athens", "Cairo", "Dubai"]
+    },
+    {
+      "city": "Singapore",
+      "country": "Singapore",
+      "clues": [
+        "This city-state is known for its ultramodern architecture and cleanliness.",
+        "Known for its diverse cultural influences and strict regulations."
+      ],
+      "fun_fact": [
+        "It is home to the world's first night safari and the iconic Gardens by the Bay.",
+        "Many visitors love exploring the city's hawker centers for affordable local cuisine."
+      ],
+      "trivia": [
+        "The city has a population of over 5,700,000 people.",
+        "This place attracts over 19 million international tourists each year."
+      ],
+      "possible_destinations": ["Singapore", "Kuala Lumpur", "Bangkok", "Hong Kong"]
+    },
+    {
+      "city": "Berlin",
+      "country": "Germany",
+      "clues": [
+        "This city is the capital and cultural center of Germany.",
+        "Known for its transformative history and vibrant arts scene."
+      ],
+      "fun_fact": [
+        "It is home to more museums than rainy days per year, with over 170 museums and galleries.",
+        "Many visitors love exploring the city's underground club scene and street art."
+      ],
+      "trivia": [
+        "The city has a population of over 3,700,000 people.",
+        "This place attracts over 13 million tourists each year."
+      ],
+      "possible_destinations": ["Berlin", "Munich", "Hamburg", "Vienna"]
+    },
+    {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "clues": [
+        "This city is the capital and largest city of Mexico.",
+        "Known for its historic center and Aztec ruins."
+      ],
+      "fun_fact": [
+        "It is home to the only royal castle in the Americas, Chapultepec Castle.",
+        "Many visitors love exploring the city's vibrant street food scene and ancient ruins."
+      ],
+      "trivia": [
+        "The city has a population of over 9,200,000 people.",
+        "This place attracts over 10 million international tourists each year."
+      ],
+      "possible_destinations": ["Mexico City", "Guadalajara", "Cancún", "Havana"]
+    },
+    {
+      "city": "Vienna",
+      "country": "Austria",
+      "clues": [
+        "This city is the capital of Austria and known for its imperial past.",
+        "Known for its classical music heritage and coffee house culture."
+      ],
+      "fun_fact": [
+        "It is home to the world's oldest zoo still in operation, Tiergarten Schönbrunn.",
+        "Many visitors love exploring the city's grand palaces and musical traditions."
+      ],
+      "trivia": [
+        "The city has a population of over 1,900,000 people.",
+        "This place attracts over 7 million international tourists each year."
+      ],
+      "possible_destinations": ["Vienna", "Prague", "Budapest", "Munich"]
+    },
+    {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "clues": [
+        "This city is known for its elaborate canal system and narrow houses.",
+        "Known for its artistic heritage and liberal culture."
+      ],
+      "fun_fact": [
+        "It is home to more bicycles than people and has over 1,200 bridges.",
+        "Many visitors love exploring the city's numerous museums and distinctive architecture."
+      ],
+      "trivia": [
+        "The city has a population of over 870,000 people.",
+        "This place attracts over 19 million tourists each year."
+      ],
+      "possible_destinations": ["Amsterdam", "Rotterdam", "Brussels", "Copenhagen"]
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "clues": [
+        "This city is the largest city in Canada and known for its diversity.",
+        "Known for its iconic CN Tower and multicultural neighborhoods."
+      ],
+      "fun_fact": [
+        "It is home to the world's longest street, Yonge Street, at 1,896 km.",
+        "Many visitors love exploring the city's diverse food scene influenced by numerous cultures."
+      ],
+      "trivia": [
+        "The city has a population of over 3,000,000 people.",
+        "This place attracts over 43 million tourists each year."
+      ],
+      "possible_destinations": ["Toronto", "Montreal", "Vancouver", "Chicago"]
+    },
+    {
+      "city": "San Francisco",
+      "country": "USA",
+      "clues": [
+        "This city is known for its iconic Golden Gate Bridge and fog.",
+        "Known for its steep rolling hills and liberal culture."
+      ],
+      "fun_fact": [
+        "It is home to the world's most crooked street, Lombard Street.",
+        "Many visitors love exploring the city's Victorian architecture and cable cars."
+      ],
+      "trivia": [
+        "The city has a population of over 875,000 people.",
+        "This place attracts over 25 million tourists each year."
+      ],
+      "possible_destinations": ["San Francisco", "Los Angeles", "Seattle", "Portland"]
+    },
+    {
+      "city": "Chicago",
+      "country": "USA",
+      "clues": [
+        "This city is known for its bold architecture and skyline.",
+        "Known for its deep-dish pizza and vibrant music scene."
+      ],
+      "fun_fact": [
+        "It is home to the first skyscraper ever built and was the birthplace of the Ferris wheel.",
+        "Many visitors love exploring the city's world-class museums and lakefront."
+      ],
+      "trivia": [
+        "The city has a population of over 2,700,000 people.",
+        "This place attracts over 57 million tourists each year."
+      ],
+      "possible_destinations": ["Chicago", "New York", "Detroit", "Toronto"]
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "clues": [
+      "This city is the cosmopolitan capital of Spain's Catalonia region.",
+      "Known for its art and architecture, particularly works by Antoni Gaudí."
+    ],
+    "fun_fact": [
+      "It is home to La Sagrada Família, a church that has been under construction since 1882.",
+      "Many visitors love exploring the city's distinctive Gothic Quarter and vibrant food markets."
+    ],
+    "trivia": [
+      "The city has a population of over 1,600,000 people.",
+      "This place attracts over 32 million tourists each year."
+    ],
+    "possible_destinations": ["Barcelona", "Madrid", "Valencia", "Marseille"]
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "This city is the capital of Spain, located in the center of the country.",
+      "Known for its elegant boulevards, expansive parks, and European art museums."
+    ],
+    "fun_fact": [
+      "It is home to the oldest restaurant in the world, Botín, operating since 1725.",
+      "Many visitors love exploring the city's lively tapas scene and vibrant nightlife."
+    ],
+    "trivia": [
+      "The city has a population of over 3,300,000 people.",
+      "This place attracts over 10 million international tourists each year."
+    ],
+    "possible_destinations": ["Madrid", "Barcelona", "Lisbon", "Seville"]
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "clues": [
+      "This city is known for its densely packed skyscrapers and vibrant harbor.",
+      "Known for its unique blend of Eastern and Western cultures."
+    ],
+    "fun_fact": [
+      "It is home to the largest number of skyscrapers in the world, with over 300 buildings taller than 150m.",
+      "Many visitors love exploring the city's traditional dim sum restaurants and bustling night markets."
+    ],
+    "trivia": [
+      "The city has a population of over 7,500,000 people.",
+      "This place attracts over 55 million tourists each year."
+    ],
+    "possible_destinations": ["Hong Kong", "Macau", "Guangzhou", "Taipei"]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "This city is the capital of South Korea, a vibrant metropolis.",
+      "Known for its modern skyscrapers, high-tech subways, and pop culture."
+    ],
+    "fun_fact": [
+      "It is home to the world's largest indoor theme park, Lotte World.",
+      "Many visitors love exploring the city's bustling street food scene and traditional palaces."
+    ],
+    "trivia": [
+      "The city has a population of over 9,700,000 people.",
+      "This place attracts over 13 million international tourists each year."
+    ],
+    "possible_destinations": ["Seoul", "Tokyo", "Busan", "Osaka"]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its iconic harbor front Opera House.",
+      "Known for its beautiful beaches and laid-back lifestyle."
+    ],
+    "fun_fact": [
+      "It is home to the world's largest natural harbor with over 240 kilometers of shoreline.",
+      "Many visitors love exploring the city's unique wildlife and diverse neighborhoods."
+    ],
+    "trivia": [
+      "The city has a population of over 5,300,000 people.",
+      "This place attracts over 16 million tourists each year."
+    ],
+    "possible_destinations": ["Sydney", "Melbourne", "Brisbane", "Auckland"]
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "clues": [
+      "This city is known as Australia's cultural capital.",
+      "Known for its art, music scene, and coffee culture."
+    ],
+    "fun_fact": [
+      "It is home to the world's largest tram network and was once the richest city in the world.",
+      "Many visitors love exploring the city's hidden laneways and street art."
+    ],
+    "trivia": [
+      "The city has a population of over 5,000,000 people.",
+      "This place attracts over 14 million tourists each year."
+    ],
+    "possible_destinations": ["Melbourne", "Sydney", "Adelaide", "Hobart"]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "This city is the capital of Russia and its political, economic, and cultural center.",
+      "Known for its historic buildings such as the Kremlin and Red Square."
+    ],
+    "fun_fact": [
+      "It is home to the world's most beautiful metro stations, often described as underground palaces.",
+      "Many visitors love exploring the city's ornate churches and grand Soviet architecture."
+    ],
+    "trivia": [
+      "The city has a population of over 12,500,000 people.",
+      "This place attracts over 5 million international tourists each year."
+    ],
+    "possible_destinations": ["Moscow", "Saint Petersburg", "Kiev", "Warsaw"]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "This city is the capital of Greece and one of the world's oldest cities.",
+      "Known for its ancient landmarks including the Acropolis."
+    ],
+    "fun_fact": [
+      "It is home to the first known democracy and has been continuously inhabited for over 7,000 years.",
+      "Many visitors love exploring the city's ancient ruins and vibrant taverna culture."
+    ],
+    "trivia": [
+      "The city has a population of over 3,100,000 people.",
+      "This place attracts over 6 million tourists each year."
+    ],
+    "possible_destinations": ["Athens", "Thessaloniki", "Istanbul", "Rome"]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "This city is the capital of Ireland, situated on the east coast.",
+      "Known for its rich literary history and Georgian architecture."
+    ],
+    "fun_fact": [
+      "It is home to the Book of Kells, an illuminated manuscript from the 9th century.",
+      "Many visitors love exploring the city's historic pubs and vibrant music scene."
+    ],
+    "trivia": [
+      "The city has a population of over 1,200,000 people.",
+      "This place attracts over 10 million tourists each year."
+    ],
+    "possible_destinations": ["Dublin", "Belfast", "Glasgow", "Liverpool"]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "This city is the capital of Sweden, spread across 14 islands.",
+      "Known for its clean waterways and open-air museum Skansen."
+    ],
+    "fun_fact": [
+      "It is home to the world's first open-air museum and is built on 14 islands connected by 57 bridges.",
+      "Many visitors love exploring the city's well-preserved medieval Old Town, Gamla Stan."
+    ],
+    "trivia": [
+      "The city has a population of over 975,000 people.",
+      "This place attracts over 13 million tourists each year."
+    ],
+    "possible_destinations": ["Stockholm", "Copenhagen", "Oslo", "Helsinki"]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "This city is the capital of the Czech Republic, known as the 'City of a Hundred Spires.'",
+      "Known for its Old Town Square and elaborate astronomical clock."
+    ],
+    "fun_fact": [
+      "It is home to Prague Castle, the largest ancient castle complex in the world.",
+      "Many visitors love exploring the city's medieval streets and historic beer halls."
+    ],
+    "trivia": [
+      "The city has a population of over 1,300,000 people.",
+      "This place attracts over 8 million tourists each year."
+    ],
+    "possible_destinations": ["Prague", "Vienna", "Budapest", "Krakow"]
+  }
+]
