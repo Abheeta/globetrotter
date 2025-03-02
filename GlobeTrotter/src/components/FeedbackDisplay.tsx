@@ -5,10 +5,11 @@ import Confetti from "react-confetti"
 interface FeedbackDisplayProps {
   isCorrect: boolean
   funFact: string
+  city: string
   onNext: () => void
 }
 
-const FeedbackDisplay: React.FC<FeedbackDisplayProps> = ({ isCorrect, funFact, onNext }) => {
+const FeedbackDisplay: React.FC<FeedbackDisplayProps> = ({ isCorrect, funFact, city, onNext }) => {
   const [windowSize, setWindowSize] = useState({
     width: window.innerWidth,
     height: window.innerHeight,
@@ -51,6 +52,7 @@ const FeedbackDisplay: React.FC<FeedbackDisplayProps> = ({ isCorrect, funFact, o
       </h2>
 
       <div className="bg-gray-100 p-4 rounded-lg">
+        <h3 className="font-medium text-green-700 mb-1">City: {city}</h3>
         <h3 className="font-medium text-gray-700 mb-1">Fun Fact:</h3>
         <p className="text-gray-600">{funFact}</p>
       </div>

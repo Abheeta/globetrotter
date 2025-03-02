@@ -67,6 +67,7 @@ export const submitAnswer = async (req: Request, res: Response): Promise<void> =
   const response: any = { 
     correct,
     funFact: city.fun_fact[Math.floor(Math.random() * city.fun_fact.length)],
+    city: city.city,
   };
 
   // Handle user data only if username is provided
@@ -90,7 +91,7 @@ export const submitAnswer = async (req: Request, res: Response): Promise<void> =
     // Add user stats to response
     response.userStats = {
       attempted: user.attempted,
-      correct: user.correct
+      correct: user.correct,
     };
   }
 

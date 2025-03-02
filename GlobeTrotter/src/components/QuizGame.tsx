@@ -14,6 +14,7 @@ interface Question {
 interface AnswerResponse {
   correct: boolean
   funFact: string
+  city: string
 }
 
 interface Score {
@@ -170,6 +171,7 @@ const QuizGame: React.FC = () => {
             <FeedbackDisplay
               isCorrect={feedback?.correct || false}
               funFact={feedback?.funFact || ""}
+              city={feedback?.city || ""}
               onNext={handleNextQuestion}
             />
           )}
