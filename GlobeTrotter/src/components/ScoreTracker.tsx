@@ -1,4 +1,5 @@
 import type React from "react"
+import { Award, Frown } from "lucide-react"
 
 interface ScoreTrackerProps {
   score: {
@@ -14,8 +15,13 @@ const ScoreTracker: React.FC<ScoreTrackerProps> = ({ score }) => {
     <div className="flex justify-between items-center bg-gray-100 p-3 rounded-lg">
       <div>
         <p className="text-sm text-gray-600">Score</p>
-        <p className="font-bold text-purple-700">
-          {score.correct} / {score.attempted}
+        <p className="font-bold text-green-700 flex flex-row items-center justify-center gap-3">
+          <Award size={18} />
+          {score.correct}
+        </p>
+        <p className="font-bold text-red-700 flex flex-row items-center justify-center gap-3">
+          <Frown size={18} />
+          {score.attempted - score.correct}
         </p>
       </div>
 

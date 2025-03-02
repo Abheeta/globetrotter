@@ -10,12 +10,12 @@ export const fetchUser = async (req: Request, res: Response): Promise<void> => {
       return;
     }
 
-    if (typeof attempted !== "number") {
+    if (typeof attempted !== "number" && typeof attempted !== "undefined") {
       res.status(400).json({ error: "attempted must be a number" });
       return;
     }
 
-    if (typeof correct !== "number") {
+    if (typeof correct !== "number" && typeof correct !== "undefined") {
       res.status(400).json({ error: "correct must be a number" });
       return;
     }
