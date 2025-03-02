@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node dist/server.js",
     "dev": "nodemon --exec ts-node src/server.ts",
-    "build": "npm install & tsc --project tsconfig.json",
+    "build": "tsc --project tsconfig.json",
     "build:check": "tsc --noEmit --project tsconfig.json"
   },
   "author": "",
